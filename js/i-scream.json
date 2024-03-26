@@ -8,7 +8,7 @@
             "calories": 200,
             "type": "ice-cream",
             "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-            "image": "https://sdiazam.github.io/24W-JavaScript-LH-Week11/images/chocolate-mint.svg"
+            "image": "/images/chocolate-mint.svg"
         }, {
             "name": "Peach Mango",
             "calories": 250,
